@@ -26,16 +26,11 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 
 ---
 
-## 🌟 Highlighted Projects  
+## 📂 Featured Projects  
 
-🔹 **[WatchDogX – AI Powered Cyber Threat Detection & Response](https://github.com/mgoyal07/WatchDogX)**  
-AI-driven system using ML models (MLP, NB, QDA) trained on CICIDS2017 dataset to detect threats in real-time. Integrated with Flask dashboard, Twilio SMS, Discord alerts, and simulated incident response.  
+[![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX) [![KrishuAI_VoiceBot](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/KrishuAI_VoiceBot)  
 
-🔹 **Voice AI Agent (Ongoing)**  
-Real-time conversational bot with Deepgram STT + ElevenLabs TTS + RAG for context-aware answers. Supports call-based interaction and dynamic interruption handling.  
-
-🔹 **Portfolio Website** → [mridulgoyal.lovable.app](http://mridulgoyal.lovable.app/)  
-Personal portfolio showcasing my projects, skills, and journey. Built with React + Tailwind for modern design.  
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=Portfolio-Website&theme=radical)](https://github.com/mgoyal07/Portfolio-Website) [![SomeOtherRepo](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=SomeOtherRepo&theme=radical)](https://github.com/mgoyal07/SomeOtherRepo)  
 
 ---
 
@@ -52,23 +47,6 @@ Personal portfolio showcasing my projects, skills, and journey. Built with React
 
 ## 📈 Activity Graph  
 [![Mridul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgoyal07&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
-## 📂 Latest Projects
-<!-- GitHub Readme Repo List -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/KrishuAI_VoiceBot)  
-
-*(More auto-updating pinned repos can be added here)*  
-
----
-
-## 📝 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*(This section will auto-update with your latest blogs if you connect a blog feed — e.g., Medium, Hashnode, Dev.to, or your own site.)*  
 
 ---
 
