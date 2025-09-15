@@ -12,7 +12,7 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 ---
 
 ## 🚀 About Me
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/4325107-Soccer-Ball?utm_source=Clipboard_Shot&utm_campaign=hiytrebla&utm_content=Soccer%20Ball&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=hiytrebla&utm_content=Soccer%20Ball&utm_medium=Social_Share)">
 
 - 🌱 Currently learning **Advanced AI, Voice Agents, and Full-Stack Development**  
 - 👨‍💻 Actively working on AI + Voice integrations (TTS, STT, RAG)  
@@ -56,7 +56,7 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 ---
 
 ## 🤝 Let’s Collaborate  
-<img align="right" alt="collab" width="250" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="collab" width="250" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> https://dribbble.com/shots/4325107-Soccer-Ball?utm_source=Clipboard_Shot&utm_campaign=hiytrebla&utm_content=Soccer%20Ball&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=hiytrebla&utm_content=Soccer%20Ball&utm_medium=Social_Share
 
 I’m always open to exciting projects in **AI, Backend, and Security**.  
 If you’ve got something in mind → [connect with me](mailto:mridulgoyal@example.com)!  
