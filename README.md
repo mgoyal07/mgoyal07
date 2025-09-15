@@ -28,9 +28,10 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 
 ## 📂 Featured Projects  
 
-[![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX) [![KrishuAI_VoiceBot](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/KrishuAI_VoiceBot)  
+[![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX) 
+[![LegalEase](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/LegalEase)  
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=Portfolio-Website&theme=radical)](https://github.com/mgoyal07/Portfolio-Website) [![SomeOtherRepo](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=SomeOtherRepo&theme=radical)](https://github.com/mgoyal07/SomeOtherRepo)  
+[![DugOut](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=Portfolio-Website&theme=radical)](https://github.com/mgoyal07/DugOut) 
 
 ---
 
