@@ -1,0 +1,66 @@
+# 👋 Hi, I'm Mridul Goyal  
+
+💻 **AI Engineer | Problem Solver | Innovator**  
+Passionate about building AI-powered solutions, scalable backends, and modern applications that create real-world impact.  
+Currently working full-time in the AI/Tech space while exploring side projects that blend creativity with logic.  
+
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Advanced AI, Voice Agents, and Full-Stack Development**  
+- 👨‍💻 Actively working on AI + Voice integrations (TTS, STT, RAG)  
+- 🛠 Exploring **backend systems, automation, and ML model deployment**  
+- 🌐 Portfolio: [mridulgoyal.lovable.app](http://mridulgoyal.lovable.app/)  
+
+---
+
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+## 🌟 Highlighted Projects  
+
+🔹 **[WatchDogX – AI Powered Cyber Threat Detection & Response](https://github.com/mgoyal07/WatchDogX)**  
+AI-driven system using ML models (MLP, NB, QDA) trained on CICIDS2017 dataset to detect threats in real-time. Integrated with Flask dashboard, Twilio SMS, Discord alerts, and simulated incident response.  
+
+🔹 **Voice AI Agent (Ongoing)**  
+Real-time conversational bot with Deepgram STT + ElevenLabs TTS + RAG for context-aware answers. Supports call-based interaction and dynamic interruption handling.  
+
+🔹 **Portfolio Website** → [mridulgoyal.lovable.app](http://mridulgoyal.lovable.app/)  
+Personal portfolio showcasing my projects, skills, and journey. Built with React + Tailwind for modern design.  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgoyal07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgoyal07&layout=compact&theme=radical)  
+
+---
+
+## 🔥 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgoyal07&theme=radical)  
+
+---
+
+## 📈 Activity Graph  
+[![Mridul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgoyal07&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoyal07/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgoyal07)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://mridulgoyal.lovable.app/)  
+
+---
+
+⭐️ From [mgoyal07](https://github.com/mgoyal07)  
+
