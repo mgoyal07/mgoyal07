@@ -7,11 +7,13 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 ---
 
 ### 📌 Quick Links
-[About Me](#-about-me) | [Tech Stack](#-tech-stack) | [Projects](#-featured-projects) | [Stats](#-github-stats) | [Streak](#-contribution-streak) | [Connect](#-connect-with-me)
+[About Me](#-about-me) | [Tech Stack](#-tech-stack) | [Projects](#-featured-projects) | [Stats](#-github-stats) | [Streak](#-contribution-streak) | [Trophies](#-github-trophies) | [Connect](#-connect-with-me)
 
 ---
 
 ## 🚀 About Me
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 Currently learning **Advanced AI, Voice Agents, and Full-Stack Development**  
 - 👨‍💻 Actively working on AI + Voice integrations (TTS, STT, RAG)  
 - 🛠 Exploring **backend systems, automation, and ML model deployment**  
@@ -32,7 +34,6 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 ---
 
 ## 📂 Featured Projects  
-
 [![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX)  
 [![KrishuAI_VoiceBot](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/KrishuAI_VoiceBot)  
 
@@ -55,6 +56,8 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 ---
 
 ## 🤝 Let’s Collaborate  
+<img align="right" alt="collab" width="250" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+
 I’m always open to exciting projects in **AI, Backend, and Security**.  
 If you’ve got something in mind → [connect with me](mailto:mridulgoyal@example.com)!  
 
