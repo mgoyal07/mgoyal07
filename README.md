@@ -6,6 +6,11 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 
 ---
 
+### 📌 Quick Links
+[About Me](#-about-me) | [Tech Stack](#-tech-stack) | [Projects](#-featured-projects) | [Stats](#-github-stats) | [Streak](#-contribution-streak) | [Connect](#-connect-with-me)
+
+---
+
 ## 🚀 About Me
 - 🌱 Currently learning **Advanced AI, Voice Agents, and Full-Stack Development**  
 - 👨‍💻 Actively working on AI + Voice integrations (TTS, STT, RAG)  
@@ -28,10 +33,8 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 
 ## 📂 Featured Projects  
 
-[![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX) 
-[![LegalEase](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=LegalEase&theme=radical)](https://github.com/mgoyal07/LegalEase)  
-
-[![DugOut](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=DugOut&theme=radical)](https://github.com/mgoyal07/DugOut) 
+[![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX)  
+[![KrishuAI_VoiceBot](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/KrishuAI_VoiceBot)  
 
 ---
 
@@ -46,8 +49,14 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 
 ---
 
-## 📈 Activity Graph  
-[![Mridul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgoyal07&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+## 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=mgoyal07&theme=radical&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🤝 Let’s Collaborate  
+I’m always open to exciting projects in **AI, Backend, and Security**.  
+If you’ve got something in mind → [connect with me](mailto:mridulgoyal@example.com)!  
 
 ---
 
