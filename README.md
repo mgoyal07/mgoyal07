@@ -55,6 +55,23 @@ Personal portfolio showcasing my projects, skills, and journey. Built with React
 
 ---
 
+## 📂 Latest Projects
+<!-- GitHub Readme Repo List -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/KrishuAI_VoiceBot)  
+
+*(More auto-updating pinned repos can be added here)*  
+
+---
+
+## 📝 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*(This section will auto-update with your latest blogs if you connect a blog feed — e.g., Medium, Hashnode, Dev.to, or your own site.)*  
+
+---
+
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoyal07/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgoyal07)  
@@ -63,4 +80,3 @@ Personal portfolio showcasing my projects, skills, and journey. Built with React
 ---
 
 ⭐️ From [mgoyal07](https://github.com/mgoyal07)  
-
