@@ -52,7 +52,7 @@ AI-driven system using ML models (MLP, NB, QDA) trained on CICIDS2017 dataset to
 🔹 **Voice AI Agent (Ongoing)**  
 Real-time conversational bot with Deepgram STT + ElevenLabs TTS + RAG for context-aware answers. Supports call-based interaction and dynamic interruption handling.  
 <p>
-  <img src="https://media.giphy.com/media/h8F1Fv5mVqg1e/giphy.gif" alt="Voice AI Demo" width="350" />
+<!--   <img src="https://media.giphy.com/media/h8F1Fv5mVqg1e/giphy.gif" alt="Voice AI Demo" width="350" /> -->
 </p>
 
 🔹 **[Portfolio Website](https://github.com/mgoyal07/Portfolio)** → [mridulgoyal.lovable.app](http://mridulgoyal.lovable.app/)  
