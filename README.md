@@ -29,9 +29,9 @@ Currently working full-time in the AI/Tech space while exploring side projects t
 ## 📂 Featured Projects  
 
 [![WatchDogX](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=WatchDogX&theme=radical)](https://github.com/mgoyal07/WatchDogX) 
-[![LegalEase](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=KrishuAI_VoiceBot&theme=radical)](https://github.com/mgoyal07/LegalEase)  
+[![LegalEase](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=LegalEase&theme=radical)](https://github.com/mgoyal07/LegalEase)  
 
-[![DugOut](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=Portfolio-Website&theme=radical)](https://github.com/mgoyal07/DugOut) 
+[![DugOut](https://github-readme-stats.vercel.app/api/pin/?username=mgoyal07&repo=DugOut&theme=radical)](https://github.com/mgoyal07/DugOut) 
 
 ---
 
